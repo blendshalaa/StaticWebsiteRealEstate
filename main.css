@@ -474,12 +474,12 @@
     height: 657px;
     ;
     margin-top: 222px;
-    margin-bottom: 220px;
+    margin-bottom: 222px;
    margin-left: 20%;
    
 }
 .textdiv{
-    margin-bottom: 80px;
+    margin-bottom: 60px;
     
 }
 
@@ -504,9 +504,7 @@
    
 
 }
-.borderlinefooter{
-    
-}
+
 .uppersection{
     display: flex;
     align-items: center;
